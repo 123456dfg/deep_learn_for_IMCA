@@ -1,0 +1,8 @@
+train: E:/anaconda3/yolov5/VOCData/dataSet_path/train.txt
+val: E:/anaconda3/yolov5/VOCData/dataSet_path/val.txt
+
+# number of classes
+nc: 3
+
+# class names
+names: ["leaf", "leaf_top","leaf_body"]
